@@ -10,7 +10,7 @@
 
 * **:penguin: Je suis à l'aise avec l'environement linux.**
 * **:toolbox: Je sais créer des configurations de machine et les monter.**
-*  **:mag_right: J'aime faire de la recherche de failles de sécurité. que ce soit côté web ou réseaux.**
+*  **:mag_right: J'aime faire de la recherche de failles de sécurité que ce soit côté web ou réseaux.**
 *  **:video_game: J'ai également fait pas mal de configuration de serveur de jeu que ce soit sous serveur Linux comme Windows server.**
 
 # - :books: Language que j'ai vue.
